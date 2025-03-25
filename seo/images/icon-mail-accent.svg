@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10.5832mm" height="10.5832mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1058.32 1058.32"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#00CCFF;stroke-width:39.69;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="icon-mail-accent.svg">
+   <path class="fil0 str0" d="M940.69 136.52l-831.54 0c-41.75,0 -75.6,33.85 -75.6,75.6l0 642.56c0,41.75 33.85,75.59 75.6,75.59l831.54 0c41.75,0 75.6,-33.84 75.6,-75.59l0 -642.56c0,-41.75 -33.85,-75.6 -75.6,-75.6z"/>
+   <path class="fil0 str0" d="M33.55 230.99l442.99 377.97c13.58,11.32 30.7,17.51 48.38,17.51 17.68,0 34.8,-6.19 48.38,-17.51l442.99 -377.97"/>
+  </g>
+ </g>
+</svg>
